@@ -13,8 +13,10 @@ With a strong background in data-driven process optimization and operational eff
 
 <details>
   <summary><strong>Education</strong></summary>
-
-I am currently enrolled in the Data Analytics program through Correlation One via Amazon Career Choice, where I am gaining hands-on experience with tools like Python, SQL, and Tableau. This program is equipping me with the technical knowledge to analyze and interpret complex data to drive business decisions. Additionally, I am pursuing various certifications to further enhance my skills and expertise in the field of data analytics, including the Google Data Analytics certification. I will also soon be starting a degree in Management to strengthen my leadership and strategic thinking capabilities.
+  
+I am a data analytics enthusiast with hands-on experience in Python, SQL, and Tableau, gained through the Correlation One Data Analytics program via Amazon Career Choice. This program has equipped me with the technical expertise to analyze and interpret complex data, enabling me to drive informed business decisions.
+In addition to completing the Google Data Analytics certification, I am actively pursuing further certifications in data analytics, including IBM Data Analytics and Microsoft Power BI, to expand my knowledge and skill set.
+I am passionate about uncovering insights through data and leveraging them to solve real-world challenges. My goal is to continuously grow as a data professional and contribute to impactful projects.
 
 </details>
 
@@ -29,7 +31,7 @@ I am currently enrolled in the Data Analytics program through Correlation One vi
   
 <details>
   <summary><strong>Certifications</strong></summary>
-
+  
 - Google Data Analytics
 
 </details>
