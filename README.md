@@ -23,7 +23,7 @@ I am passionate about uncovering insights through data and leveraging them to so
 <details>
   <summary><strong>Skills</strong></summary>
 
-  - **Tech Skills**: SQL, Python, R, Excell, Tableau, Looker Studio, Data Analysis.
+  - **Tech Skills**: SQL, Python, R, Excel, Tableau, Looker Studio, Data Analysis.
   
   - **Additional Skills**: Problem Solving, Process Optimization, Critical Thinking, Project Management, Team Leadership, Operational Efficiency, Change Management.
 
